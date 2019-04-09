@@ -16,7 +16,7 @@ role = "PhD Student in Biomedical Engineering"
 organizations = [ {name = "Center for Injury Biomechanics"}, { name = "Wake Forest University", url = "" }  ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests include biomechanics, image analysis, and computational modeling."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
