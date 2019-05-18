@@ -13,7 +13,7 @@ role = "PhD Student in Biomedical Engineering"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ {name = "Center for Injury Biomechanics"}, { name = "Wake Forest University", url = "" }  ]
+organizations = [ {name = "Center for Injury Biomechanics"}, { name = "Virginia Tech - Wake Forest University School for Biomedical Engineering and Sciences", url = "www.sbes.vt.edu" }  ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include biomechanics, image analysis, and computational modeling."
@@ -78,6 +78,6 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Hi there :) I'm a 2nd year PhD student at Wake Forest University within the Center for Injury Biomechanics. My research interests are at the intersection of bio-inspired design, biomechanics, and computer science.
+Hi there :) I'm a 2nd year PhD student at Wake Forest University. My research interests are at the intersection of bio-inspired design, biomechanics, and computer science.
 
 I also enjoy rollerblading, hiking, and pretty much anything else that involves being outside!
