@@ -13,7 +13,7 @@ role = "PhD Student in Biomedical Engineering"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ {name = "Center for Injury Biomechanics"}, { name = "Virginia Tech - Wake Forest University School for Biomedical Engineering and Sciences", url = "https://www.sbes.vt.edu" }  ]
+organizations = [ {name = "Center for Injury Biomechanics"}, { name = "Virginia Tech - Wake Forest University School for Biomedical Engineering and Sciences", url = "www.sbes.vt.edu" }  ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include biomechanics, image analysis, and computational modeling."
