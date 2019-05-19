@@ -8,15 +8,17 @@ header:
   image: ""
 ---
 
+This page is under development, stay tuned...
+
+
 ## FIRST Robotics
 
-This feature can be used for publishing content such as:
+![STEM outreach with robotics students](outreach_RobotRun_2018.jpg)
 
-## Format: ![Alt Text](url)
-![Example image](outreach_regan_2019.jpg)
-{{ $image := $resource.Resize "x400" }} 
+## Women in STEM
 
-// Resize to a height of 400px and preserve ratio
-* **Online courses**
-* **Project or software documentation**
-* **Tutorials**
+![Women in BME Group Picture](outreach_regan_2019.jpg)
+
+## K-12 School Outreach
+
+![STEM outreach with students](outreach_petree_2019.jpg)
