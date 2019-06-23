@@ -47,7 +47,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "linkedin"
   icon_pack = "fab"
-  link = "https://www.linkedin.com/in/greenekatelyn/"
+  link = "https://www.linkedin.com/in/katelynagreene/"
 
 [[social]]
   icon = "envelope"
@@ -78,6 +78,6 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Hi there :) I'm a 2nd year PhD student at Wake Forest University. My research interests are at the intersection of bio-inspired design, biomechanics, and computer science.
+I'm a 2nd year PhD student at both Virginia Tech and Wake Forest University. My research interests are at the intersection of bio-inspired design, biomechanics, and computer science.
 
 I also enjoy rollerblading, hiking, and pretty much anything else that involves being outside!
