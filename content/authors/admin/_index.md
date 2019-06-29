@@ -49,15 +49,25 @@ user_groups = ["Researchers", "Visitors"]
   icon_pack = "fab"
   link = "https://www.linkedin.com/in/katelynagreene/"
 
-[[social]]
-  icon = "envelope"
-  icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:katgreen@wakehealth.edu".
+#[[social]]
+#  icon = "envelope"
+#  icon_pack = "fas"
+#  link = "#contact"  # For a direct email link, use "mailto:katgreen@wakehealth.edu".
 
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
   link = "https://twitter.com/KatelynAGreene"
+
+[[social]]
+  icon = "instagram"
+  icon_pack = "fab"
+  link = "https://www.instagram.com/katelynagreene/"
+
+[[social]]
+  icon = "orcid"
+  icon_pack = "ai"
+  link = "https://orcid.org/0000-0002-4150-3451"
 
 #[[social]]
 #  icon = "google-scholar"

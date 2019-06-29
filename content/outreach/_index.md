@@ -8,7 +8,7 @@ header:
   image: ""
 ---
 
-As an engineer, I believe it is one of my core responsibilities to inspire the next generation of young scientists and engineers through low-pressure fun activities that encourage STEM literacy and problem solving. I have become especially interested learning how to support and advocate for students from underrepresented groups, especially those from schools with limited access to in-class science curriculum and to after-school STEM clubs. 
+As an engineer, I believe it is one of my core responsibilities to inspire the next generation of young scientists and engineers through low-pressure fun activities that encourage STEM literacy and problem solving. I have become especially interested in learning how to support and advocate for students from underrepresented groups, especially those from schools with limited access to in-class science curriculum and to after-school STEM clubs. 
 
 ## K-12 School Outreach
 I enjoy visiting classrooms and school science events to give demos, serve as a guest speaker, and judge student projects. 
