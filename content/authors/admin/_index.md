@@ -16,7 +16,7 @@ role = "PhD Student in Biomedical Engineering"
 organizations = [ {name = "Center for Injury Biomechanics"}, { name = "Virginia Tech - Wake Forest University School for Biomedical Engineering and Sciences", url = "https://sbes.vt.edu" }  ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include biomechanics, image analysis, and computational modeling."
+bio = "I'm an engineer interested in helping others understand research and inspiring the next generation of young scientists. I specialize in biomechanics, image analysis, and computational modeling."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -59,10 +59,10 @@ user_groups = ["Researchers", "Visitors"]
   icon_pack = "fab"
   link = "https://twitter.com/KatelynAGreene"
 
-[[social]]
-  icon = "instagram"
-  icon_pack = "fab"
-  link = "https://www.instagram.com/katelynagreene/"
+#[[social]]
+#  icon = "instagram"
+#  icon_pack = "fab"
+#  link = "https://www.instagram.com/katelynagreene/"
 
 [[social]]
   icon = "orcid"
