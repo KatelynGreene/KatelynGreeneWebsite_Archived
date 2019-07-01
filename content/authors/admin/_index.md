@@ -88,6 +88,7 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I'm a 2nd year PhD student at both Virginia Tech and Wake Forest University. My research interests are at the intersection of bio-inspired design, biomechanics, and computer science.
+I'm a second year PhD student at both Virginia Tech and Wake Forest University studying the changes in the bone and muscle of astronaut spines with long duration spaceflight. I'm also interested in scientific communication and K-12 STEM outreach.
 
-I also enjoy rollerblading, hiking, and pretty much anything else that involves being outside!
+When not in lab, I enjoy rollerblading, hiking, and pretty much anything else that involves being outside!
+
