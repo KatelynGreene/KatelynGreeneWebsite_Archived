@@ -11,9 +11,9 @@ header:
 ## **Vertebral Strength and Injury Risk Following Spaceflight**
 ![Research Study Overview Diagram](research_flowdiagram.png)
 
-Prolonged periods of microgravity exposure can damage astronauts’ musculoskeletal system, increasing their risk of vertebral injuries including fracture. A portion of my research focuses on measuring the degradation of astronauts’ vertebrae and spinal muscles during missions aboard the International Space Station (ISS). We use this data to create human body computational models that simulate crewmember injury risk in the spine during spacecraft launch and landing. 
+Prolonged periods of microgravity exposure can damage astronauts’ musculoskeletal system, increasing their risk of vertebral injuries including fracture. A portion of this research focuses on measuring the degradation of astronauts’ vertebrae and spinal muscles during missions aboard the International Space Station (ISS). We use this data to create human body computational models that simulate crewmember injury risk in the spine during spacecraft launch and landing. 
 
-Graduate Advisor: Ashley Weaver, PhD
+Graduate Advisor: [Ashley Weaver, PhD](https://school.wakehealth.edu/Faculty/W/Ashley-Anne-Weaver)
 
 Learn more about the project [here](https://www.nasa.gov/mission_pages/station/research/experiments/explorer/Investigation.html?#id=7540) 
 

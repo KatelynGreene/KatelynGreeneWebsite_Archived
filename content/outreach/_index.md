@@ -8,15 +8,30 @@ header:
   image: ""
 ---
 
-As an engineer, I believe it is one of my core responsibilities to inspire the next generation of young scientists and engineers through low-pressure fun activities that encourage STEM literacy and problem solving. I have become especially interested in learning how to support and advocate for students from underrepresented groups, especially those from schools with limited access to in-class science curriculum and to after-school STEM clubs. 
+As an engineer, I believe it is one of my core responsibilities to inspire the next generation of young scientists and engineers through low-pressure fun activities that encourage STEM literacy and problem solving. I have become especially interested in learning how to support and advocate for students from underrepresented groups, especially those from schools with limited access to in-class science curricula and to after-school STEM clubs. 
 
 ## K-12 School Outreach
 I enjoy visiting classrooms and school science events to give demos, serve as a guest speaker, and judge student projects. 
 
 ### Petree Elementary School STEM Night
-Below is a picture from Petree Elementary STEM Night, where I brought 3D printed bones to teach the kids about the structure of bones and how they can be strong but also lightweight. 
+Below is a picture from 2019 Petree Elementary STEM Night, where I brought 3D printed bones to teach the kids about the structure of bones and how they can be strong but also lightweight. 
 
 ![STEM outreach with students](outreach_petree_2019.jpg)
+
+### Girls and Boys Club Science Hour
+In July of 2019, I designed and ran an hour long introduction to Biomedical Engineering for the Winston-Salem Boys & Girls Club in collaboration with our university's scientific communication group, [Wake Up To Science](https://twitter.com/WakeUptoScience). We guided the kids through designing and building a functional biomechanical arm in order to show them how engineering can be used to make devices, like prosthetics, that help individuals in need. Guest speaker, [Rayonna Gordon](https://www.linkedin.com/in/rayonna-gordon/) (pictured below) also led an active discussion with them on the applicability of biomedical engineering to helping low-resource communities worldwide.
+
+![Making Biomechanical Arms with young students](biomechanical_arm_2019.jpg)
+
+### Biomedical Engineering with MedCaT Students
+In July 2019, I organized and led an afternoon introduction to research in Biomedical Engineering for American Indian and Appalachian high school students and teachers in the [Wake Forest Medical Careers and Technology (MedCaT) Pipeline](https://school.wakehealth.edu/Research/Institutes-and-Centers/Clinical-and-Translational-Science-Institute/Maya-Angelou-Center-for-Health-Equity/Pipeline-Programming/Medical-Careers-and-Technology-Pipeline) in order to expose them to pursue health and biomedical science careers. Four graduate students talked about their paths to engineering careers and discussed their research in the biomechanics of baseball pitching, tissue engineering, astronaut health, and medical device design. Afterwards, the group went on an extended tour of our additive manufacturing facilities and surgical robotics lab. 
+
+![Students listening to research presentation](MedCaT_2019.jpg)
+
+### Wake Forest Biosciences & Engineering Summer Immersion Program
+Around 100 high school students from across the country visited the department of Biomedical Engineering across two afternoons in July 2019 during the [Wake Forest Summer Immersion Program](https://immersion.summer.wfu.edu/institutes/bioscience-engineering-institute/). I and my graduate advisor, Dr. Ashley Weaver, coordinated each day's events, including an interactive overview of the biomedical engineering field, TED-style talks from seven faculty researchers, and a series of hands-on demonstrations in five different laboratories in Biotech Place. This annual program aims to introduce students to diverse career pathways in the basic sciences to engineering by exposing them to cutting edge research projects and leading researchers in the field. During the research overview talks and tours, faculty members and graduate students showed the students various projects in nanotechnology, injury biomechanics, bioinformatics, and trauma research – with the ultimate goal of showing them how the research fundamentally helps improve human health and safety for millions of people across the world. 
+
+![Students in biomechanics lab](WFU_Immersion_1.jpg)
 
 ## FIRST Robotics
 In high school, my experience on a FIRST robotics team (Team 1717 D'penguineers) as a mechanical designer was instrumental in my decision to pursue engineering as a career. Over the years, I have used the technical skillset I've developed to mentor several FIRST Lego League teams, serve as an instructor for robotics summer camps, and also volunteer for several local and regional FIRST competitions. 
@@ -37,7 +52,7 @@ In May 2019, I alongside my fellow PhD student [Andrea Mazzocchi](https://twitte
 ![Women in BME Student Panel](outreach_regan_2019_2.jpg)
 
 ### Girls Who Code
-I am a co-facilitator of the Girls Who Code club at the Malloy/Jordan East Winston Heritage Center.  I have experience both developing and teaching project-based curricula to teach elementary and middle school aged girls the fundamentals of computer science and coding syntax. Below is a picture of one of our facilitators, Madison, teaching the girls about loops! 
+I am a co-facilitator of the Girls Who Code club at the Malloy/Jordan East Winston Heritage Center.  I have experience both developing and teaching project-based curricula to teach elementary and middle school aged girls the fundamentals of computer science and coding syntax. Below is a picture of one of our facilitators, [Madison](https://www.linkedin.com/in/l-madison-kirk-7556b0148/), teaching the girls about loops! 
 
 ![Girls who Code Meeting](outreach_GWC_2019.jpg)
 

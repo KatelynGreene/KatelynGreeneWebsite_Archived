@@ -88,7 +88,7 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I'm a second year PhD student at both Virginia Tech and Wake Forest University studying the changes in the bone and muscle of astronaut spines with long duration spaceflight. I'm also interested in scientific communication and K-12 STEM outreach.
+I'm a third year PhD student at Wake Forest University studying the changes in the bone and muscle of astronaut spines with long duration spaceflight. Beyond my engineering studies, I am also a trained science communicator and leader with expertise in organizing K-12 STEM outreach activities. It is my long-term goal to help make science accessible and easy to understand for the broader academic and public community, so that we all can benefit from the advancements made possible by research.
 
-When not in lab, I enjoy rollerblading, hiking, and pretty much anything else that involves being outside!
+When not in lab, I enjoy rollerblading, hiking, gardening, and pretty much anything else that involves being outside!
 
