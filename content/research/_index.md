@@ -19,6 +19,11 @@ Learn more about the project [here](https://www.nasa.gov/mission_pages/station/r
 
 ### Publications from this project: 
 Lumbopelvic Muscle Changes Following Long-Duration Spaceflight. <br/>
+McNamara KP, **Greene KA**, Tooze JA, Dang J, Khattab K, Lenchik L, Weaver AA. <br/>
+*Frontiers in Physiology*. September 13, 2019.
+https://www.frontiersin.org/articles/10.3389/fphys.2019.01115/full
+
+Lumbopelvic Muscle Changes Following Long-Duration Spaceflight. <br/>
 McNamara KP, **Greene KA**, Moore AM, Lenchik L, Weaver AA. <br/>
-*Frontiers in Physiology*. Accepted: May 2, 2019.
-https://www.frontiersin.org/articles/10.3389/fphys.2019.00627/abstract
+*Frontiers in Physiology*. May 21, 2019.
+https://www.frontiersin.org/articles/10.3389/fphys.2019.00627/full
