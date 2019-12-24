@@ -1,6 +1,6 @@
 ---
 title: 'NASA Human Research Program – Why it Matters Back on Earth'
-subtitle: 'NASA research and its benefits for life on Earth :space-shuttle: :globe-americas:'
+subtitle: 'NASA research and its benefits for life on Earth :rocket:'
 summary: NASA research and its benefits for life on Earth
 authors:
 - admin
