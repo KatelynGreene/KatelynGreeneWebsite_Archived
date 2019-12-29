@@ -16,7 +16,7 @@ role = "PhD Student in Biomedical Engineering"
 organizations = [ {name = "Center for Injury Biomechanics"}, { name = "Virginia Tech - Wake Forest University School for Biomedical Engineering and Sciences", url = "https://sbes.vt.edu" }  ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "I'm an engineer interested in helping others understand research and inspiring the next generation of young scientists. I specialize in biomechanics, image analysis, and computational modeling."
+bio = "I'm a biomedical engineering graduate student using biomechanics, image analysis, and computational modeling to study bone and muscle changes in astronauts and aging populations. On the side, I'm passionate about helping others understand research and inspiring the next generation of young scientists."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -88,7 +88,9 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I'm a third year PhD student at Wake Forest University studying the changes in the bone and muscle of astronaut spines with long duration spaceflight. Beyond my engineering studies, I am also a trained science communicator and leader with expertise in organizing K-12 STEM outreach activities. It is my long-term goal to help make science accessible and easy to understand for the broader academic and public community, so that we all can benefit from the advancements made possible by research.
+I'm a third year Biomedical Engineering PhD student at Wake Forest University studying the bone and muscle changes of (1) astronauts with long duration spaceflight and (2) older adults with obesity undergoing intentional weight loss.
 
-When not in lab, I enjoy rollerblading, hiking, gardening, and pretty much anything else that involves being outside!
+Beyond my engineering studies, I am also a trained science communicator and leader with expertise in organizing K-12 STEM outreach activities. Through my involvement in science communication, I aim to encourage the next generation of students to pursue STEM careers and help make science easily accessible for the broader academic and public community so that we all can benefit from the advancements made possible by research.
+
+When not in lab, I enjoy endurance rollerblading, hiking, gardening, and pretty much anything else that involves being outside!
 
