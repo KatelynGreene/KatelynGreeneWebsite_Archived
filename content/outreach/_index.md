@@ -15,6 +15,7 @@ I enjoy visiting classrooms and school science events to give demos, serve as a 
 
 ### North Carolina Science Festival IMPACTS Program
 Selected for 2019-2020 Piedmont Triad cohort of the Inspiring Meaningful Programs and Communication Through Science ([IMPACTS](https://www.ncsciencefestival.org/IMPACTS)) Program, a statewide science communication training and outreach initiative based on the NSF Portal to the Public curriculum and funded by the North Carolina GlaxoSmithKline Foundation. As part of my training, I am designing and implementing K-12 STEM outreach events for classroom visits, community events, and science festivals across North Carolina. 
+![IMPACTS program t-shirt](impacts.jpg)
 
 #### IMPACTS - Novozymes SciMatch Classroom Visit
 In December 2019, I visited Ms. Opal Baker's 6th grade science classes at MLK Junior Middle School in Charlotte, NC. I taught her four classes for a day, showing the students how I became a engineer, demoing some of our lab's research in computational modeling of astronaut injury, and leading a hands-on activity that shows how bone loss occurs in astronauts during spaceflight. 
