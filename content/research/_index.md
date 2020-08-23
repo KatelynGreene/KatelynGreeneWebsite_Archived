@@ -13,7 +13,7 @@ header:
 
 Despite remarkable improvements in physiological and cardiometabolic indices, mounting evidence suggests weight loss increases skeletal fragility and fracture risk in older populations. This clinical research uses noninvasive computational biomechanics tools to comprehensively assess bone health and predict fracture in obese older adults who undergo a weight-loss intervention involving caloric restriction, supervised exercise, and randomization to receive either a high protein or low protein diet. The results of this study could establish the plausibility of protein supplementation as a clinically relevant therapeutic for attenuating bone loss and mitigating fracture risk in older adults undergoing intentional weight loss. 
 
-My graduate research focuses on developing image analysis and finite element tools to process the imaging data from the above project and is supported by an NIH Ruth L. Kirschstein National Research Service Award (NRSA) Individual Predoctoral Fellowship from the National Insitute on Aging.
+My graduate research focuses on developing image analysis and finite element modeling tools to process the imaging data from the above project and is supported by an NIH Ruth L. Kirschstein National Research Service Award (NRSA) Individual Predoctoral Fellowship from the National Insitute on Aging.
 
 This research is supported by NIH F31-AG069414, NIH K25-AG058804, and NIH R01-AG050656. 
 
