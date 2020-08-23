@@ -34,6 +34,10 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
+  course = "MS in Biomedical Engineering"
+  institution = "Virginia Tech and Wake Forest University"
+  year = 2020
+[[education.courses]]
   course = "BS in Bioengineering"
   institution = "University of California, Berkeley"
   year = 2017
@@ -69,10 +73,10 @@ user_groups = ["Researchers", "Visitors"]
   icon_pack = "ai"
   link = "https://orcid.org/0000-0002-4150-3451"
 
-#[[social]]
-#  icon = "google-scholar"
-#  icon_pack = "ai"
- # link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+[[social]]
+  icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://scholar.google.com/citations?user=jlZjbwQAAAAJ&hl"
 
 [[social]]
   icon = "github"
@@ -88,7 +92,7 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I'm a third year Biomedical Engineering PhD student at Wake Forest University studying the bone and muscle changes of (1) astronauts with long duration spaceflight and (2) older adults with obesity undergoing intentional weight loss.
+I'm a 4th year Biomedical Engineering PhD student at Wake Forest University studying the bone and muscle changes of (1) astronauts with long duration spaceflight and (2) older adults with obesity undergoing intentional weight loss. I am supported by an NIH Ruth L. Kirschstein National Research Service Award (NRSA) Individual Predoctoral Fellowship from the National Insitute on Aging (F31 AG069414). 
 
 Beyond my engineering studies, I am also a trained science communicator and leader with expertise in organizing K-12 STEM outreach activities. Through my involvement in science communication, I aim to encourage the next generation of students to pursue STEM careers and help make science easily accessible for the broader academic and public community so that we all can benefit from the advancements made possible by research.
 
