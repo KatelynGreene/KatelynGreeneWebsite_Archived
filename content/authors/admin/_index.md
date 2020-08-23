@@ -92,7 +92,9 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I'm a 4th year Biomedical Engineering PhD student at Wake Forest University studying the bone and muscle changes of (1) astronauts with long duration spaceflight and (2) older adults with obesity undergoing intentional weight loss. I am supported by an NIH Ruth L. Kirschstein National Research Service Award (NRSA) Individual Predoctoral Fellowship from the National Insitute on Aging (F31 AG069414). 
+I'm a 4th year Biomedical Engineering PhD student at Wake Forest University studying the bone and muscle changes of (1) astronauts with long duration spaceflight and (2) older adults with obesity undergoing intentional weight loss. 
+
+I am supported by an NIH Ruth L. Kirschstein National Research Service Award (NRSA) Individual Predoctoral Fellowship from the National Insitute on Aging. 
 
 Beyond my engineering studies, I am also a trained science communicator and leader with expertise in organizing K-12 STEM outreach activities. Through my involvement in science communication, I aim to encourage the next generation of students to pursue STEM careers and help make science easily accessible for the broader academic and public community so that we all can benefit from the advancements made possible by research.
 
