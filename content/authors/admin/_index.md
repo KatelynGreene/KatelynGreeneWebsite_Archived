@@ -92,7 +92,7 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I'm a 4th year Biomedical Engineering PhD student at Wake Forest University studying the bone and muscle changes of (1) astronauts with long duration spaceflight and (2) older adults with obesity undergoing intentional weight loss. 
+I'm a 5th year Biomedical Engineering PhD student at Wake Forest University studying the bone and muscle changes of (1) astronauts with long duration spaceflight and (2) older adults with obesity undergoing intentional weight loss. 
 
 I am supported by an NIH Ruth L. Kirschstein National Research Service Award (NRSA) Individual Predoctoral Fellowship from the National Insitute on Aging. 
 
