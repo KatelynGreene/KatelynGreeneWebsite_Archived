@@ -9,14 +9,14 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "PhD Student in Biomedical Engineering"
+role = "PhD Student"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ {name = "Center for Injury Biomechanics"}, { name = "Virginia Tech - Wake Forest University School for Biomedical Engineering and Sciences", url = "https://sbes.vt.edu" }  ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "I'm a biomedical engineering graduate student using biomechanics, image analysis, and computational modeling to study bone and muscle changes in astronauts and aging populations. On the side, I'm passionate about helping others understand research and inspiring the next generation of young scientists."
+bio = "I'm a biomedical engineering graduate student using biomechanics, image analysis, and computational modeling to study bone and muscle changes in astronauts and aging populations. I'm passionate about helping others understand research and inspiring the next generation of young scientists."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -92,11 +92,10 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I'm a 5th year Biomedical Engineering PhD student at Wake Forest University studying the bone and muscle changes of (1) astronauts with long duration spaceflight and (2) older adults with obesity undergoing intentional weight loss. 
+I'm a 5th year Biomedical Engineering PhD student studying bone and muscle changes in (1) astronauts during long duration spaceflight and (2) older adults with obesity undergoing intentional weight loss. 
 
-I am supported by an NIH Ruth L. Kirschstein National Research Service Award (NRSA) Individual Predoctoral Fellowship from the National Insitute on Aging. 
+I am supported by an NIH Ruth L. Kirschstein Predoctoral Fellowship (NRSA F31) from the National Institute on Aging. 
 
-Beyond my engineering studies, I am also a trained science communicator and leader with expertise in organizing K-12 STEM outreach activities. Through my involvement in science communication, I aim to encourage the next generation of students to pursue STEM careers and help make science easily accessible for the broader academic and public community so that we all can benefit from the advancements made possible by research.
+Beyond my engineering research, I am also a trained science communicator and leader with expertise in organizing K-12 STEM outreach activities. I aim to encourage the next generation of students to pursue STEM careers and also make science accessible for the broader public community. 
 
-When not in lab, I enjoy endurance rollerblading, hiking, gardening, and pretty much anything else that involves being outside!
-
+I enjoy inline skating marathons, hiking new trails, reading in my hammock, caring for my overflowing family of plants, and pretty much anything else that involves being outside!
