@@ -25,7 +25,7 @@ email = ""
 interests = [
   "Biomechanics",
   "Data Science",
-  "Digital Healthcare"
+  "Aging and Health Tech"
 ]
 
 # Organizational groups that you belong to (for People widget)
