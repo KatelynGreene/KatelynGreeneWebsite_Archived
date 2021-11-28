@@ -32,6 +32,11 @@ Graduate Advisor: [Ashley Weaver, PhD](https://school.wakehealth.edu/Faculty/W/A
 Learn more about the project [here](https://www.nasa.gov/mission_pages/station/research/experiments/explorer/Investigation.html?#id=7540) 
 
 ### Publications from this project: 
+Trunk Skeletal Muscle Changes on CT with Long-Duration Spaceflight. <br/>
+**Greene KA**, Withers SS, Lenchik L, Tooze JA, Weaver AA. <br/>
+*Annals of Biomedical Engineering*. February 21, 2021.
+https://www.frontiersin.org/articles/10.3389/fphys.2019.01115/full
+
 Neck Muscle Changes Following Long-Duration Spaceflight. <br/>
 McNamara KP, **Greene KA**, Tooze JA, Dang J, Khattab K, Lenchik L, Weaver AA. <br/>
 *Frontiers in Physiology*. September 13, 2019.
