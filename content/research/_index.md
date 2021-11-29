@@ -35,7 +35,7 @@ Learn more about the project [here](https://www.nasa.gov/mission_pages/station/r
 Trunk Skeletal Muscle Changes on CT with Long-Duration Spaceflight. <br/>
 **Greene KA**, Withers SS, Lenchik L, Tooze JA, Weaver AA. <br/>
 *Annals of Biomedical Engineering*. February 21, 2021.
-https://www.frontiersin.org/articles/10.3389/fphys.2019.01115/full
+https://link.springer.com/article/10.1007/s10439-021-02745-8
 
 Neck Muscle Changes Following Long-Duration Spaceflight. <br/>
 McNamara KP, **Greene KA**, Tooze JA, Dang J, Khattab K, Lenchik L, Weaver AA. <br/>
