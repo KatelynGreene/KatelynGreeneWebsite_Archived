@@ -96,6 +96,6 @@ I'm a 5th year Biomedical Engineering PhD student studying bone and muscle chang
 
 I am supported by an NIH Ruth L. Kirschstein Predoctoral Fellowship (NRSA F31) from the National Institute on Aging. 
 
-Beyond my engineering research, I am also a trained science communicator and leader with expertise in organizing K-12 STEM outreach activities. I aim to encourage the next generation of students to pursue STEM careers and also make science accessible for the broader public community. 
+Beyond my engineering research, I am also a trained science communicator and leader with expertise in organizing K-12 STEM outreach activities. I aim to make science accessible for the broader public community and encourage the next generation of students to pursue careers in STEMM (Science, Technology, Engineering, Mathematics, and Medicine). 
 
 I enjoy inline skating marathons, hiking new trails, reading in my hammock, caring for my overflowing family of plants, and pretty much anything else that involves being outside!
